@@ -14,4 +14,4 @@ print("hello",5)
 print("welcome to ", end= "\n *************************\n")
 
 #Print with variables fstring 
-print(f"Hello, I am learning Python version {3.9}")
+print(f"Hello, I am learning Python version {6+8}")
