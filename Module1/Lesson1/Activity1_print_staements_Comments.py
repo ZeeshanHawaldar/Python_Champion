@@ -1,4 +1,12 @@
-#printing a greeting message
+#git commands to push code to remote repository
+"""
+git add .
+git commit -m "Added Module3 Lesson1"
+git push
+"""
+
+
+#This is a single line comment
 print("Hello, world!")
 
 #Printing my name
